@@ -1,0 +1,42 @@
+{
+  "name": "root",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "native-base": "^2.8.1",
+    "react": "16.6.0-alpha.8af6728",
+    "react-native": "0.57.4",
+    "react-native-background-timer": "^2.1.1",
+    "react-native-calendars": "^1.188.0",
+    "react-native-elements": "^1.1.0",
+    "react-native-events-calendar": "^1.0.8",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-material-menu": "^0.6.2",
+    "react-native-multiple-choice": "0.0.8",
+    "react-native-search-filter": "^0.1.4",
+    "react-native-smart-splash-screen": "^2.3.5",
+    "react-native-swiper": "^1.5.14",
+    "react-native-ui-xg": "0.0.6",
+    "react-native-vector-icons": "^6.1.0",
+    "react-navigation": "^2.18.3"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.50.0",
+    "react-test-renderer": "16.6.0-alpha.8af6728",
+    "regenerator-runtime": "^0.13.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  }
+}

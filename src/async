@@ -1,0 +1,53 @@
+userDetails: user_id, user_name
+
+questionDetails: id: "1", question: "Who's the president of Belarus?", creator: "test", created_at: "2019-06-18 16:27:35"
+
+newsDetails : 
+created_at: "2019-06-26 13:26:10"
+description: "Tharindu had a fever all day and all the fellow friends were celebrating at the time. Tharindu was sad because none of the friends were not celebrating."
+id: 16
+image1: "http://cupdes.com/uploads/images/news/original/1561555569-Soora%20Pappa%201.jpg"
+image2: "http://cupdes.com/uploads/images/news/original/1561555570-soora%20pappa.jpg"
+image3: "http://cupdes.com/uploads/images/news/original/1561555570-Sketch.png"
+is_approved: "1"
+topic: "Why tharindu is sad? Check this out."
+updated_at: "2019-06-26 13:26:10"
+user: {id: 1, name: "Admin"}
+user_id: "1"
+
+
+discussionDetails:
+created_at: "2019-06-24 12:13:56"
+creator: "test"
+is_approved: "1"
+question: "What happens in vegas?"
+question_id: "3"
+userquestion_id: "8"
+__proto__: Object  
+
+
+taskDetails:
+created_at: "2019-06-29 18:41:55"
+description: "vcvxcvxcvxg"
+end_date: "2016-05-15"
+id: 9
+is_finished: "0"
+is_pending: "1"
+start_date: "2016-05-15"
+topic: "gfgfgfdg"
+updated_at: "2019-06-29 18:41:55"
+user_id: "2"
+
+subTaskId: 15
+
+discussionId: 147
+
+subTaskDetails
+end_date: "2019-07-17"
+id: "45"
+start_date: "2019-07-03"
+subtask: "Sub Task 1 Created"
+task_id: "33"
+user:
+id: "2"
+name: "test"
